@@ -1,0 +1,4 @@
+# Activate your virtual environment first
+source venv/bin/activate  # On Linux/Mac
+# OR
+venv\Scripts\activate     # On Windows
