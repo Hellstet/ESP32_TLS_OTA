@@ -2,3 +2,8 @@ build/
 sdkconfig
 *.release
 *.debug
+
+venv/
+__pycache__/
+*.pyc
+*.pyo
